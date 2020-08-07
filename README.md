@@ -9,6 +9,4 @@
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbourand&hide=PHP" />
-<br />
-<br />
 <img src="https://github-readme-stats.vercel.app/api?username=mbourand&&show_icons=true&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
