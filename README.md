@@ -1,6 +1,6 @@
 ### Bienvenue 👋
 
-- 🔭 Je travaille actuellement sur une reproduction de bash en C
+- 🔭 Je travaille actuellement sur le multithreading
 - 🌱 En ce moment, j'apprends le C et le C++
 - 📫 Contacts:
 
