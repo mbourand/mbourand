@@ -1,6 +1,6 @@
 ### Bienvenue 👋
 
-- 🔭 Je travaille actuellement sur le multithreading
+- 🔭 Je travaille actuellement sur un serveur web
 - 🌱 En ce moment, j'apprends le C et le C++
 - 📫 Contacts:
 
