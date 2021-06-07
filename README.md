@@ -1,4 +1,4 @@
-<img src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=mbourand">
+<a href="https://github.com/mbourand?tab=repositories"><img src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=mbourand"></a>
 
 ### Outils
 
