@@ -6,4 +6,4 @@
 
 ### Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbourand&hide=PHP" />&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mbourand&&show_icons=true&line_height=27&v=5&hide=contribs,issues" alt="mbourand's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbourand&hide=PHP&theme=dark" />&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mbourand&&show_icons=true&line_height=27&v=5&theme=dark&hide=contribs,issues" alt="mbourand's GitHub Stats" />
