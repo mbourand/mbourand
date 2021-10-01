@@ -1,3 +1,5 @@
+![Metrics](https://metrics.lecoq.io/mbourand?template=classic&base.community=0&people=1&lines=1&languages=1&achievements=1&projects=1&languages.ignored=php%2C%20html%2C%20css%2C%20Assembly%2C%20Shell&languages.limit=6&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=26&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&projects.limit=4&projects.descriptions=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Europe%2FParis&config.display=large)
+
 <a href="https://github.com/mbourand?tab=repositories"><img src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=mbourand"></a>&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbourand&hide=PHP&theme=dark" />
 
 ### Outils
