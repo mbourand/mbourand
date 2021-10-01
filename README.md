@@ -1,4 +1,4 @@
-<a href="https://www.github.com/mbourand/repositories">![Metrics](https://raw.githubusercontent.com/mbourand/mbourand/master/github-metrics.svg)</a>
+<a href="https://github.com/mbourand?tab=repositories">![Metrics](https://raw.githubusercontent.com/mbourand/mbourand/master/github-metrics.svg)</a>
 
 <a href="https://github.com/mbourand?tab=repositories"><img width="400px" src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=mbourand">
         
