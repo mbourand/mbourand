@@ -1,11 +1,7 @@
-![Metrics](https://metrics.lecoq.io/mbourand?template=classic&base.community=0&people=1&lines=1&languages=1&achievements=1&projects=1&languages.ignored=php%2C%20html%2C%20css%2C%20Assembly%2C%20Shell&languages.limit=6&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=26&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&projects.limit=4&projects.descriptions=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Europe%2FParis&config.display=large)
+![Metrics](https://raw.githubusercontent.com/mbourand/mbourand/master/github-metrics.svg)
 
 <a href="https://github.com/mbourand?tab=repositories"><img src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=mbourand"></a>&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbourand&hide=PHP&theme=dark" />
 
 ### Outils
 
 <img src="https://img.shields.io/badge/-VS%20Code-blue?label=%20&logo=Visual%20Studio%20Code&labelColor=gray&logoColor=31A4F1&style=for-the-badge&logoWidth=15">&nbsp;<img src="https://img.shields.io/badge/-C/C++-31A4F1?label=%20&logo=C&labelColor=gray&logoColor=31A4F1&style=for-the-badge&logoWidth=15">&nbsp;<img src="https://img.shields.io/badge/-Java-FF9300?label=%20&logo=Java&labelColor=gray&logoColor=FFFFFF&style=for-the-badge&logoWidth=15">&nbsp;<img src="https://img.shields.io/badge/-Shell-4EAA25?label=%20&logo=GNU%20Bash&labelColor=gray&logoColor=FFFFFF&style=for-the-badge&logoWidth=15">&nbsp;<img src="https://img.shields.io/badge/-Windows-0078D6?label=%20&logo=Windows&labelColor=gray&logoColor=0078D6&style=for-the-badge&logoWidth=15">&nbsp;<img src="https://img.shields.io/badge/-Linux-0078D6?label=%20&logo=Linux&labelColor=gray&logoColor=FFFFFF&style=for-the-badge&logoWidth=15">&nbsp;<img src="https://img.shields.io/badge/-GitHub-24292E?label=%20&logo=GitHUb&labelColor=gray&logoColor=FFFFFF&style=for-the-badge&logoWidth=15">
-
-### Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=mbourand&&show_icons=true&line_height=27&v=5&theme=dark&hide=contribs,issues&count_private=true" alt="mbourand's GitHub Stats" />
