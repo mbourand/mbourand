@@ -42,4 +42,3 @@ jobs:
           plugin_people_types: followers, following
           plugin_projects: yes
           plugin_projects_limit: 2
-          repositories_affiliations: owner
