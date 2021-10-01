@@ -5,5 +5,5 @@
 </p>
         
 <p align="center">
-  <a href="https://github.com/mbourand?tab=repositories"><img width="380px" src="https://1337-readme.vercel.app/api/profile?dark=true&leet_logo=hide&login=mbourand"></a>
+  <a href="https://github.com/mbourand?tab=repositories"><img width="450px" src="https://1337-readme.vercel.app/api/profile?dark=true&leet_logo=hide&login=mbourand"></a>
 </p>
